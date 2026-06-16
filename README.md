@@ -36,6 +36,8 @@ https://bookora-book-store-fronted.vercel.app
 - Quiz system and certificate generation
 - Instructor dashboard and secure routes
 
+  🔗 Live Demo  
+https://brainera-sable.vercel.app/
 ---
 
 ### 🛠 Tech Stack
